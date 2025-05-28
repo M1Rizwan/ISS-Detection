@@ -5,8 +5,8 @@ import requests, datetime, smtplib
 
 PUNE_LAT = 18.8671
 PUNE_LONG = 73.9801
-MY_EMAIL = "mrdumy001@gmail.com"
-MY_PASSWORD = "gmplbyywyevldfuw"
+MY_EMAIL = "your email"
+MY_PASSWORD = "your_email_password"
 current_hour = datetime.datetime.now().hour
 
 
