@@ -1,4 +1,4 @@
-# THIS HOW TUTOR WROTE THE BELOW CODE.#
+# The Below code will detect if ISS(International Space Station) is passing over Pune city.#
 
 import time
 import requests, datetime, smtplib
@@ -47,7 +47,7 @@ while True:
                 msg="Subject:ISS Passing over Pune.🛰\n\nnHey Rizwan,"
                     "\nWake up! ISS is passing over your city.Try to have a look if you can see it."
             )
-        print("mail sent, check!")
+
 
 
 
