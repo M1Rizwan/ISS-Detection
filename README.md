@@ -3,4 +3,4 @@ This code is written to detect the current position of ISS (International Space 
 <br>
 if ISS passes over the Pune city in the night it will send an email as an alert.
 <br>
-Originally: This work was completed around in Aug/Sep-2024 before it recently pushed to the Github.
+Originally: This work was completed around in Aug/Sep-2024 by me before it recently pushed to the Github.
